@@ -21,6 +21,7 @@ The project is organized around two modes:
    - arXiv retrieval is available now.
 
 The Turkish walkthrough is available in [REHBER.md](REHBER.md).
+Run commands (Turkish quick reference): [CALISTIRMA.md](CALISTIRMA.md).
 
 ## Project Layout
 

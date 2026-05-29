@@ -7,7 +7,7 @@ import urllib.request
 from typing import Any
 
 DEFAULT_TIMEOUT = 60
-DEFAULT_USER_AGENT = "LiteratureTriageTool/1.0 (academic research; mailto:contact@example.com)"
+DEFAULT_USER_AGENT = "LiteratureTriageTool/1.0 (academic research; mailto:ahmetkaancakmak@ogrenci.beykoz.edu.tr)"
 MAX_RETRIES = 3
 RETRY_BACKOFF_BASE = 5.0
 

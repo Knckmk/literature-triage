@@ -3,6 +3,8 @@
 Bu dosya, projeye **sıfırdan** bakan biri için hazırlanmıştır.  
 Teknik terimleri mümkün olduğunca sade anlatır; akışı şemalarla gösterir.
 
+> Sadece komut listesi arıyorsanız: [CALISTIRMA.md](CALISTIRMA.md)
+
 ---
 
 ## 1. Bu proje ne yapıyor?
