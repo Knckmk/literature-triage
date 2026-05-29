@@ -1,0 +1,5 @@
+Orienteering and prize-collecting variants
+Orienteering combines TSP with prize-collecting objectives subject to a length budget.
+Constant-factor approximations rely on a combination of dynamic programming and LP rounding.
+We connect orienteering to k-TSP and the traveling repairman problem.
+Lower bound discussions and open ratio questions are included.

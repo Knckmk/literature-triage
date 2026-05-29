@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+.venv/
+.env
+results/
+results_arxiv/
+tmp_results/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

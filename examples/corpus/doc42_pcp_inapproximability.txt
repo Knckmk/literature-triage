@@ -1,0 +1,5 @@
+PCP-based inapproximability for TSP variants
+PCP theorems yield strong hardness of approximation lower bounds for many TSP variants.
+We summarize hardness ratios for metric, graphic, and asymmetric TSP.
+The reductions inform the design of integrality gap instances for LP relaxations.
+Implications for parity correction lower bounds are discussed.

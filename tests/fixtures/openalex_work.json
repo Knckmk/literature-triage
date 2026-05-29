@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W123456789",
+  "doi": "https://doi.org/10.1000/openalex.example",
+  "title": "Distributed Minimum Spanning Tree Verification",
+  "publication_year": 2024,
+  "publication_date": "2024-05-01",
+  "cited_by_count": 17,
+  "abstract_inverted_index": {
+    "Distributed": [0],
+    "minimum": [1],
+    "spanning": [2],
+    "tree": [3],
+    "verification": [4]
+  },
+  "authorships": [
+    {"author": {"display_name": "Grace Hopper"}}
+  ],
+  "concepts": [{"display_name": "Computer Science"}],
+  "primary_location": {
+    "source": {"display_name": "Journal of Algorithms"},
+    "pdf_url": "https://example.org/paper.pdf"
+  }
+}

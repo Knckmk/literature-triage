@@ -1,0 +1,3 @@
+Graph decompositions and ears
+Ear decompositions provide structural insights for 2-edge-connected graphs and related augmentation problems.
+We outline how decomposition-driven arguments can replace LP-based reasoning in some settings.

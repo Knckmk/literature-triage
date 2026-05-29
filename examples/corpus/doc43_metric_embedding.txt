@@ -1,0 +1,5 @@
+Probabilistic metric embeddings into trees
+Bartal showed that any metric can be probabilistically embedded into trees with O(log n) distortion.
+We outline applications to network design, k-median, and TSP-like problems.
+For TSP, the embedding reduces the problem to a tree instance, which can be solved exactly.
+Trade-offs between distortion and approximation factor are highlighted.

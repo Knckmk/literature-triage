@@ -1,0 +1,5 @@
+The Chinese postman problem
+The Chinese postman problem requires traversing every edge of a graph at minimum total cost.
+For undirected graphs, the problem reduces to T-join with T equal to the odd-degree vertices.
+This makes the matching polytope and parity correction central to the analysis.
+We describe efficient algorithms and connections to TSP.

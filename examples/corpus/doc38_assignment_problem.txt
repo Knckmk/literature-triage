@@ -1,0 +1,5 @@
+The assignment problem and its role in TSP
+The assignment problem is solvable in polynomial time and yields a useful lower bound for asymmetric TSP.
+We review the Hungarian method and its connection to the LP relaxation of TSP.
+Cycle-cover rounding strategies combine assignment with matching to produce approximate tours.
+Open problems include sharper integrality gap bounds.

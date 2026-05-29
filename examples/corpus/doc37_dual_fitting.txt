@@ -1,0 +1,5 @@
+Dual fitting in approximation analysis
+Dual fitting is a technique that constructs feasible dual solutions to certify approximation guarantees.
+We illustrate it on set cover, facility location, and bin packing.
+For TSP-like problems, dual fitting interprets the matching subroutine within an LP-based framework.
+Strengths and limitations relative to primal-dual schemes are discussed.

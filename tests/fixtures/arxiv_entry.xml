@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:arxiv="http://arxiv.org/schemas/atom">
+  <id>http://arxiv.org/abs/2401.12345v2</id>
+  <updated>2024-02-03T12:34:56Z</updated>
+  <published>2024-01-15T09:00:00Z</published>
+  <title>
+    Graphic TSP Approximation with Parity Correction
+  </title>
+  <summary>
+    We study approximation algorithms for the graphic traveling salesperson
+    problem using parity correction and structural graph decompositions.
+  </summary>
+  <author>
+    <name>Ada Lovelace</name>
+  </author>
+  <author>
+    <name>Alan Turing</name>
+  </author>
+  <arxiv:primary_category term="cs.DS" scheme="http://arxiv.org/schemas/atom"/>
+  <category term="cs.DS" scheme="http://arxiv.org/schemas/atom"/>
+  <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+  <link href="http://arxiv.org/abs/2401.12345v2" rel="alternate" type="text/html"/>
+  <link title="pdf" href="http://arxiv.org/pdf/2401.12345v2" rel="related" type="application/pdf"/>
+</entry>

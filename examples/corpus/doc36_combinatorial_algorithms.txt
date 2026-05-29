@@ -1,0 +1,5 @@
+Combinatorial algorithms beyond LPs
+We argue that combinatorial reasoning often replaces LP-based arguments in graph approximation.
+Examples include ear decomposition fixes for 2-edge-connected spanning subgraphs.
+Parity correction via local exchange replaces a global matching subroutine.
+The paper compares running times and constant factors between LP-based and combinatorial designs.

@@ -1,0 +1,5 @@
+Strongly polynomial algorithms in combinatorial optimization
+We survey strongly polynomial algorithms for min-cost flow, submodular minimization, and related problems.
+The discussion emphasizes their role inside approximation algorithm subroutines.
+Recent breakthroughs use interior-point methods to improve running time on dense LPs.
+Open questions about strongly polynomial LP solvers remain.
